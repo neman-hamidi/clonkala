@@ -82,7 +82,7 @@
 body {
   background: var(--background, #ffffff);
   color: var(--foreground, #000000);
-  font-family: vazir, Arial, Helvetica, sans-serif;
+  font-family: vazirmatn, Arial, Helvetica, sans-serif;
 }
 
 .hide-scrollbar::-webkit-scrollbar {
