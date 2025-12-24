@@ -8,11 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "@fontsource-variable/material-symbols-outlined": "^5.2.30",
+    "material-symbols": "^0.40.2",
     "next": "16.1.1",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
   "devDependencies": {
+    "@tailwindcss/forms": "^0.5.11",
     "@tailwindcss/postcss": "^4",
     "babel-plugin-react-compiler": "1.0.0",
     "tailwindcss": "^4"
